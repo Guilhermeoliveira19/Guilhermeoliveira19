@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **Python, HTML , CSS , Java Script and more.**
 
 - 📫 How to reach me **guilhermeoliveira19ti@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
